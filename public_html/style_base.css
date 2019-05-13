@@ -35,14 +35,9 @@ ol {
   line-height: 180%;
 }
 
-ul,
-ol {}
-
 a {
   text-decoration: none;
 }
-
-a:hover {}
 
 #wrapper {
   overflow: hidden;
@@ -54,20 +49,15 @@ a:hover {}
   width: 1000px;
 }
 
-
 /* Header */
-
 #header {
   margin: 0 auto;
   padding: 0px 20px;
   width: 1000px;
   height: 140px;
-  /*	background: url(images/img01.jpg) no-repeat left top;*/
 }
 
-
 /* Logo */
-
 #logo {
   float: left;
   margin: 0;
@@ -75,9 +65,6 @@ a:hover {}
   width: 600px;
   color: #000000;
 }
-
-#logo h1,
-#logo p {}
 
 #logo h1 {
   padding: 40px 0px 0px 0px;
@@ -104,9 +91,7 @@ a:hover {}
   text-decoration: none;
 }
 
-
 /* Menu */
-
 #menu {
   float: right;
   margin: 0 auto;
@@ -146,18 +131,12 @@ a:hover {}
   text-decoration: none;
 }
 
-#menu .current_page_item a {}
-
-
 /* Page */
-
 #page {
   padding: 0px 0px 0px 0px;
 }
 
-
 /* Footer */
-
 #footer {
   margin: 0 auto;
   padding: 0px 0px 0px 0px;

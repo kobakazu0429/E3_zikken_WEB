@@ -3,7 +3,6 @@
   padding: 0px 0px 0px 0px;
 }
 
-
 /* Content */
 #content {
   float: left;
@@ -42,8 +41,6 @@
   float: right;
 }
 
-.post .meta a {}
-
 .post .entry {
   padding: 0px 0px 20px 0px;
   padding-bottom: 10px;
@@ -54,7 +51,6 @@
   margin-bottom: 30px;
   padding-top: 20px;
 }
-
 
 /* Sidebar */
 #sidebar {
@@ -83,7 +79,6 @@
 #sidebar p {
   text-align: center;
 }
-
 
 /* Three Column Footer Content */
 #footer-content {
