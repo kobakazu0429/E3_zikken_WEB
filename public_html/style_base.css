@@ -132,7 +132,7 @@ a:hover {}
   margin-right: 1px;
   padding: 10px 0px 15px 30px;
   border: none;
-  color: #CE92A6;
+  color: #000;
   text-align: center;
   text-decoration: none;
   text-transform: lowercase;
@@ -193,7 +193,7 @@ a:hover {}
 }
 
 .list-style1 a {
-  color: #E2B8C6;
+  color: #000;
 }
 
 .list-style2 {
