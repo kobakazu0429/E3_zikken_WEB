@@ -7,7 +7,9 @@
 #content {
   float: left;
   padding: 20px 0px 0px 0px;
+  padding-right: 20px;
   width: 620px;
+  border-right: 1px solid #000;
   background: #FFFFFF right 40px;
 }
 
@@ -58,7 +60,6 @@
   margin: 0px;
   padding: 20px 0px 0px 20px;
   width: 320px;
-  background: #AAAAAA;
   color: #222222;
 }
 
@@ -74,10 +75,6 @@
 
 #sidebar a:hover {
   text-decoration: underline;
-}
-
-#sidebar p {
-  text-align: center;
 }
 
 /* Three Column Footer Content */
