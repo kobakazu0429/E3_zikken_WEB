@@ -1,4 +1,4 @@
-# reacy-calc
+# react-calc
 
 ## How to dev
 
@@ -6,8 +6,8 @@
 
 ```bash
 # ... Setup node and yarn
-$ git clone <git repository url>
-$ cd <your project name>
+$ git clone git@github.com:kobakazu0429/E3_zikken_WEB.git
+$ cd E3_zikken_WEB
 $ yarn install
 ```
 
